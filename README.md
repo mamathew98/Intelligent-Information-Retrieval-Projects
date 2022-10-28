@@ -6,7 +6,7 @@
 - Retrieval Functions (BM25, etc)
 - Length Normalization
 
-![This is an image](/Images/CA1.png)
+![This is an image](/Images/CA1.jpg)
 
 ## CA2
 - Galago Framework
@@ -17,7 +17,7 @@
   - Two-Stage Smoothing
 - Psuedo Relevance Feedback
    
-![This is an image](/Images/CA2.png)
+![This is an image](/Images/CA2.jpg)
 
 ## CA3
 - Map/Reduce
@@ -25,7 +25,7 @@
   - Stripes
 - PageRank
  
-![This is an image](/Images/CA3.png)
+![This is an image](/Images/CA3.jpg)
 
  ## CA4
  - Word Association
@@ -34,7 +34,7 @@
  - Clustering
   - KMeans
  
-![This is an image](/Images/CA4.png)
+![This is an image](/Images/CA4.jpg)
 
  ## CA5
  - Text Classification
