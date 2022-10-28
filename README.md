@@ -46,7 +46,7 @@
  
 ![This is an image](/Images/CA5.png)
 
- ## Finla Project
+ ## Final Project
  - MLP
  - Feature Exraction
  - Multi-Layer Preceptron
