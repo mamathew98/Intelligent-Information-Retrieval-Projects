@@ -1,0 +1,25 @@
+run-id        				 num_ret       num_rel     num_rel_ret         map          ndcg          P5  
+/home/mamathew/Desktop/bm25Test1.txt   4801.000      6100.000       169.000         0.015         0.039         0.037    
+/home/mamathew/Desktop/bm25Test2.txt   4801.000      6100.000      1189.000  *      0.159  *      0.290  *      0.424  * 
+/home/mamathew/Desktop/bm25Test21.txt   4801.000      6100.000      1178.000  *      0.156  *      0.289  *      0.412  * 
+/home/mamathew/Desktop/bm25Test22.txt   4801.000      6100.000      1183.000  *      0.156  *      0.288  *      0.424  * 
+/home/mamathew/Desktop/bm25Test23.txt   4801.000      6100.000      1186.000  *      0.160  *      0.290  *      0.433  * 
+/home/mamathew/Desktop/bm25Test24.txt   4801.000      6100.000      1189.000  *      0.159  *      0.292  *      0.424  * 
+/home/mamathew/Desktop/bm25Test25.txt   4801.000      6100.000      1190.000  *      0.158  *      0.290  *      0.424  * 
+/home/mamathew/Desktop/bm25Test3.txt   4801.000      6100.000       746.000  *      0.078  *      0.184  *      0.249  * 
+/home/mamathew/Desktop/bm25Test4.txt   4801.000      6100.000      1228.000  *      0.170  *      0.300  *      0.392  * 
+/home/mamathew/Desktop/bm25Test41.txt   4801.000      6100.000      1219.000  *      0.168  *      0.297  *      0.376  * 
+/home/mamathew/Desktop/bm25Test42.txt   4801.000      6100.000      1223.000  *      0.169  *      0.298  *      0.384  * 
+/home/mamathew/Desktop/bm25Test43.txt   4801.000      6100.000      1264.000  *      0.175  *      0.310  *      0.392  * 
+/home/mamathew/Desktop/bm25Test44.txt   4801.000      6100.000      1269.000  *      0.177  *      0.313  *      0.400  * 
+/home/mamathew/Desktop/bm25Test45.txt   4801.000      6100.000      1273.000  *      0.178  *      0.315  *      0.412  * 
+/home/mamathew/Desktop/bm25Test46.txt   4801.000      6100.000      1287.000  *      0.179  *      0.318  *      0.420  * 
+/home/mamathew/Desktop/bm25Test47.txt   4801.000      6100.000      1289.000  *      0.178  *      0.317  *      0.420  * 
+/home/mamathew/Desktop/bm25Test48.txt   4801.000      6100.000      1290.000  *      0.178  *      0.318  *      0.433  * 
+/home/mamathew/Desktop/bm25Test49.txt   4801.000      6100.000      1282.000  *      0.179  *      0.318  *      0.453  * 
+/home/mamathew/Desktop/bm25Test5.txt   4801.000      6100.000      1242.000  *      0.172  *      0.305  *      0.392  * 
+/home/mamathew/Desktop/bm25Test51.txt   4801.000      6100.000      1223.000  *      0.169  *      0.298  *      0.384  * 
+/home/mamathew/Desktop/bm25Test52.txt   4801.000      6100.000      1244.000  *      0.171  *      0.305  *      0.400  * 
+/home/mamathew/Desktop/bm25Test53.txt   4801.000      6100.000      1268.000  *      0.174  *      0.310  *      0.412  * 
+/home/mamathew/Desktop/bm25Test54.txt   4801.000      6100.000      1271.000  *      0.174  *      0.310  *      0.429  * 
+Sig-Test: randomized, threshold set to 0.050000

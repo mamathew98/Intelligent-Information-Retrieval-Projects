@@ -1,0 +1,20 @@
+run-id        				  num_ret       num_rel        num_rel_ret     map           ndcg          P5  
+/home/mamathew/Desktop/bm25Test01.txt   5000.000      4805.000       971.000         0.143         0.289         0.352    
+/home/mamathew/Desktop/bm25Test02.txt   5000.000      4805.000       828.000         0.122         0.263         0.280    
+/home/mamathew/Desktop/bm25Test03.txt   5000.000      4805.000       962.000         0.139         0.289         0.328    
+/home/mamathew/Desktop/bm25Test04.txt   5000.000      4805.000       937.000         0.142         0.295         0.336    
+/home/mamathew/Desktop/bm25Test05.txt   5000.000      4805.000       936.000         0.144         0.299         0.332    
+/home/mamathew/Desktop/bm25Test06.txt   5000.000      4805.000       897.000         0.138         0.293         0.344    
+/home/mamathew/Desktop/bm25Test07.txt   5000.000      4805.000       864.000         0.133         0.285         0.332    
+/home/mamathew/Desktop/bm25Test08.txt   5000.000      4805.000       730.000         0.111         0.254         0.300    
+/home/mamathew/Desktop/bm25Test09.txt   5000.000      4805.000      1101.000  *      0.169  *      0.340  *      0.380    
+/home/mamathew/Desktop/bm25Test10.txt   5000.000      4805.000      1174.000  *      0.180  *      0.345  *      0.392  * 
+/home/mamathew/Desktop/bm25Test11.txt   5000.000      4805.000      1167.000  *      0.180  *      0.346  *      0.404  * 
+/home/mamathew/Desktop/bm25Test12.txt   5000.000      4805.000      1168.000  *      0.182  *      0.348  *      0.420  * 
+/home/mamathew/Desktop/bm25Test13.txt   5000.000      4805.000      1171.000  *      0.183  *      0.350  *      0.432  * 
+/home/mamathew/Desktop/bm25Test14.txt   5000.000      4805.000      1164.000  *      0.182  *      0.348  *      0.428  * 
+/home/mamathew/Desktop/bm25Test15.txt   5000.000      4805.000      1167.000  *      0.182  *      0.349  *      0.420  * 
+/home/mamathew/Desktop/bm25Test16.txt   5000.000      4805.000      1158.000  *      0.180  *      0.349  *      0.420  * 
+/home/mamathew/Desktop/bm25Test17.txt   5000.000      4805.000      1173.000  *      0.182  *      0.348  *      0.416  *
+ 
+Sig-Test: randomized, threshold set to 0.050000

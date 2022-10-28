@@ -1,0 +1,4 @@
+run-id        				  num_ret       num_rel     num_rel_ret        map          ndcg          P5  
+/home/mamathew/Desktop/bm25Test00.txt   4801.000      6100.000       745.000         0.076         0.173         0.233    
+/home/mamathew/Desktop/bm25Test01.txt   4801.000      6100.000       474.000         0.048         0.113         0.176    
+Sig-Test: randomized, threshold set to 0.050000

@@ -1,0 +1,14 @@
+run-id        num_ret     num_rel  num_rel_ret         map        ndcg          P5  
+/home/mamathew/Desktop/bm25Test00.txt   4801.000      6100.000      1242.000         0.172         0.305         0.392    
+/home/mamathew/Desktop/bm25Test01.txt   4801.000      6100.000      1248.000         0.172         0.304         0.396    
+/home/mamathew/Desktop/bm25Test02.txt   4801.000      6100.000      1223.000         0.169         0.298         0.384    
+/home/mamathew/Desktop/bm25Test03.txt   4801.000      6100.000      1284.000  *      0.178  *      0.316  *      0.412    
+/home/mamathew/Desktop/bm25Test04.txt   4801.000      6100.000      1273.000  *      0.178  *      0.315  *      0.412    
+/home/mamathew/Desktop/bm25Test05.txt   4801.000      6100.000      1281.000  *      0.178         0.313  *      0.408    
+/home/mamathew/Desktop/bm25Test06.txt   4801.000      6100.000      1283.000  *      0.178  *      0.313  *      0.412    
+/home/mamathew/Desktop/bm25Test07.txt   4801.000      6100.000      1283.000  *      0.178  *      0.316  *      0.416    
+/home/mamathew/Desktop/bm25Test08.txt   4801.000      6100.000      1280.000  *      0.178  *      0.313  *      0.388    
+/home/mamathew/Desktop/bm25Test09.txt   4801.000      6100.000      1289.000  *      0.178  *      0.317  *      0.420    
+/home/mamathew/Desktop/bm25Test10.txt   4801.000      6100.000      1285.000  *      0.178         0.317  *      0.429    
+/home/mamathew/Desktop/bm25Test11.txt   4801.000      6100.000      1282.000  *      0.178         0.317  *      0.449  * 
+Sig-Test: randomized, threshold set to 0.050000
