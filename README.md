@@ -29,20 +29,20 @@
 
  ## CA4
  - Word Association
-  - Syntagmatic
-  - Paradigmatic
+   - Syntagmatic
+   - Paradigmatic
  - Clustering
-  - KMeans
+   - KMeans
  
 ![This is an image](/Images/CA4.jpg)
 
  ## CA5
  - Text Classification
-  - Naiive Bayes
-  - Logistic Regression
-  - SVM
+   - Naiive Bayes
+   - Logistic Regression
+   - SVM
  - Topic Modeling
-  - PLSA
+   - PLSA
  
 ![This is an image](/Images/CA5.png)
 
